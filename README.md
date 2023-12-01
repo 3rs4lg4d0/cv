@@ -2,6 +2,8 @@
 
 I'm a Computer Engineer with a degree from the University of Seville since 2005. I have over 18 years of experience in various development projects across different sectors, specializing as a Backend Engineer. My expertise includes working with languages such as Python, Java, and Go. I focus on delivering simple and effective architectural designs, flawless code, and thorough documentation, aiming to set high standards for quality and performance.
 
+If you want to see what I've been up to in the Golang world, check out my repositories. Feel free to explore and get a sense of my hands-on experience in Golang development.
+
 ## Contact
 
 - [ernesto.salgado.suarez@gmail.com](mailto:ernesto.salgado.suarez@gmail.com)
