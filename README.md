@@ -36,7 +36,10 @@ I'm a Computer Engineer with a degree from the University of Seville since 2005.
 
 |||
 |-|-|
-| **Aug 2023 – present** | **Deloitte Consulting** |
+| **Oct 2023 – present** | **Deloitte Consulting** |
+|| Senior Backend Engineer |
+| Kleinanzeigen | Collaborated with the Liberty Backend Team at Kleinanzeigen to migrate their backend systems to AWS.<br><br>As a Senior Backend Engineer, I am responsible for:<br>&nbsp;&nbsp;&nbsp;&nbsp;• Define the application's deployment settings to maximise performance when running in Kubernetes.<br>&nbsp;&nbsp;&nbsp;&nbsp;• Define automatic processes to allow canary deployments.<br>&nbsp;&nbsp;&nbsp;&nbsp;• Do backend code adaptations if required and update project's documentation.<br><br><u>Used technologies</u>: Docker, Kubernetes, Spring Boot, Helm Charts, Aurora Postgres, Secrets Manager.|
+| **Aug 2023 – Sep 2023** | **Deloitte Consulting** |
 || Senior Backend Engineer |
 | Leboncoin | Collaborated with the Smart Advertising Team at Leboncoin to design and develop data pipelines, enhancing the efficiency of processing advertising metrics extracted from Google APIs.<br><br>As a Senior Backend Engineer, I am responsible for:<br>&nbsp;&nbsp;&nbsp;&nbsp;• Developing integrations with Google APIs (AdSense, Ad Manager) to extract advertising metrics.<br>&nbsp;&nbsp;&nbsp;&nbsp;• Developing Airflow DAGs and Operators to automate data extraction and ingestion in AWS S3.<br>&nbsp;&nbsp;&nbsp;&nbsp;• Empowering data analysts by enabling seamless access to ingested data through AWS Athena tables, enhancing their data exploration capabilities.<br><br><u>Used technologies</u>: Docker, Kubernetes, Apache Airflow, Python, AWS Athena, DBT.|
 | **Nov 2022 – Aug 2023** | **Deloitte Consulting** |
